@@ -1,0 +1,257 @@
+{
+  "common": {
+    "appName": "CREW",
+    "tagline": "Your startup team is ready",
+    "subtitle": "8 professional departments, from idea to launch",
+    "description": "No tech skills needed. No hiring required. Just click start.",
+    "start": "Build Your Team",
+    "meetTeam": "Meet the team",
+    "settings": "Settings",
+    "send": "Send",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "save": "Save",
+    "back": "Back",
+    "loading": "Loading...",
+    "working": "Working",
+    "completed": "Completed",
+    "idle": "Idle",
+    "continueChat": "Continue",
+    "startChat": "Start Chat",
+    "viewDetails": "View Details"
+  },
+  "departments": {
+    "product": "Product",
+    "design": "Design",
+    "engineering": "Engineering",
+    "marketing": "Marketing",
+    "project-management": "Project",
+    "studio-operations": "Operations",
+    "testing": "Testing",
+    "bonus": "Bonus"
+  },
+  "agents": {
+    "sprint-prioritizer": {
+      "name": "Sprint Prioritizer",
+      "description": "Maximize value delivery within tight timelines",
+      "greeting": "Hi! I'm the Sprint Prioritizer. I help you focus on what matters most. Tell me about your project, and I'll help you set priorities."
+    },
+    "feedback-synthesizer": {
+      "name": "Feedback Synthesizer",
+      "description": "Consolidate user feedback into key insights",
+      "greeting": "Hi! I analyze and synthesize user feedback. Share what you've collected, and I'll extract the key insights."
+    },
+    "trend-researcher": {
+      "name": "Trend Researcher",
+      "description": "Track market trends and spot opportunities",
+      "greeting": "Hi! I focus on market trend research. Tell me your product direction, and I'll help analyze industry dynamics."
+    },
+    "ui-designer": {
+      "name": "UI Designer",
+      "description": "Rapidly design beautiful, functional interfaces",
+      "greeting": "Hi! I'm a UI Designer specializing in rapid, implementable designs. Tell me your product needs, and I'll plan the interface."
+    },
+    "ux-researcher": {
+      "name": "UX Researcher",
+      "description": "Deeply understand user needs and behaviors",
+      "greeting": "Hi! I focus on user experience research. Tell me about your target users, and I'll help analyze their needs."
+    },
+    "brand-guardian": {
+      "name": "Brand Guardian",
+      "description": "Ensure brand consistency and tone",
+      "greeting": "Hi! I maintain brand consistency. Tell me your brand positioning, and I'll help guide the design direction."
+    },
+    "visual-storyteller": {
+      "name": "Visual Storyteller",
+      "description": "Tell brand stories through visual language",
+      "greeting": "Hi! I specialize in visual storytelling. Tell me what you want to communicate, and I'll help craft the visual expression."
+    },
+    "whimsy-injector": {
+      "name": "Whimsy Injector",
+      "description": "Add delightful surprises to products",
+      "greeting": "Hi! I add fun elements to products. Tell me about yours, and I'll think of ways to make it more engaging."
+    },
+    "frontend-developer": {
+      "name": "Frontend Developer",
+      "description": "Build smooth user interfaces",
+      "greeting": "Hi! I handle frontend development. Tell me your design requirements, and I'll assess the implementation approach."
+    },
+    "backend-architect": {
+      "name": "Backend Architect",
+      "description": "Design stable system architecture",
+      "greeting": "Hi! I handle backend architecture. Tell me your business needs, and I'll plan the technical solution."
+    },
+    "rapid-prototyper": {
+      "name": "Rapid Prototyper",
+      "description": "Quickly build interactive prototypes",
+      "greeting": "Hi! I specialize in rapid prototyping. Tell me your product concept, and I'll help you validate your ideas fast."
+    },
+    "ai-engineer": {
+      "name": "AI Engineer",
+      "description": "Integrate AI capabilities into products",
+      "greeting": "Hi! I focus on AI integration. Tell me what AI features you want, and I'll help you plan."
+    },
+    "devops-automator": {
+      "name": "DevOps Engineer",
+      "description": "Automate deployment and operations",
+      "greeting": "Hi! I handle automated deployment. Tell me your deployment needs, and I'll plan the CI/CD pipeline."
+    },
+    "mobile-app-builder": {
+      "name": "Mobile Developer",
+      "description": "Build native mobile applications",
+      "greeting": "Hi! I handle mobile development. Tell me your app requirements, and I'll assess the development approach."
+    },
+    "test-writer-fixer": {
+      "name": "Test Writer & Fixer",
+      "description": "Write tests and fix issues",
+      "greeting": "Hi! I handle testing and bug fixes. Tell me what needs testing, and I'll help ensure quality."
+    },
+    "content-creator": {
+      "name": "Content Creator",
+      "description": "Create engaging marketing content",
+      "greeting": "Hi! I handle content creation. Tell me your product features, and I'll help write compelling content."
+    },
+    "growth-hacker": {
+      "name": "Growth Hacker",
+      "description": "Design user growth strategies",
+      "greeting": "Hi! I focus on user growth. Tell me your current product status, and I'll help design growth strategies."
+    },
+    "app-store-optimizer": {
+      "name": "ASO Specialist",
+      "description": "Optimize app store performance",
+      "greeting": "Hi! I handle ASO. Tell me about your app, and I'll help optimize its store presence."
+    },
+    "twitter-engager": {
+      "name": "Twitter Manager",
+      "description": "Manage Twitter social engagement",
+      "greeting": "Hi! I handle Twitter operations. Tell me your brand positioning, and I'll help plan your social strategy."
+    },
+    "instagram-curator": {
+      "name": "Instagram Curator",
+      "description": "Curate Instagram content",
+      "greeting": "Hi! I handle Instagram content curation. Tell me your visual style, and I'll help plan the content."
+    },
+    "tiktok-strategist": {
+      "name": "TikTok Strategist",
+      "description": "Plan TikTok short video strategy",
+      "greeting": "Hi! I focus on TikTok strategy. Tell me your target audience, and I'll help plan short video content."
+    },
+    "reddit-community-builder": {
+      "name": "Reddit Community Builder",
+      "description": "Build Reddit community influence",
+      "greeting": "Hi! I handle Reddit community operations. Tell me your product area, and I'll help build community influence."
+    },
+    "project-shipper": {
+      "name": "Project Shipper",
+      "description": "Ensure projects ship on time",
+      "greeting": "Hi! I manage project delivery. Tell me about your project, and I'll help control the schedule."
+    },
+    "experiment-tracker": {
+      "name": "Experiment Tracker",
+      "description": "Track and analyze experiment results",
+      "greeting": "Hi! I handle experiment tracking. Tell me about your experiments, and I'll help analyze results."
+    },
+    "studio-producer": {
+      "name": "Studio Producer",
+      "description": "Coordinate team resources and progress",
+      "greeting": "Hi! I coordinate team resources. Tell me about your team, and I'll help optimize collaboration."
+    },
+    "analytics-reporter": {
+      "name": "Analytics Reporter",
+      "description": "Analyze data and generate reports",
+      "greeting": "Hi! I handle data analysis. Tell me what metrics you care about, and I'll help analyze the data."
+    },
+    "finance-tracker": {
+      "name": "Finance Tracker",
+      "description": "Track finances and budgets",
+      "greeting": "Hi! I handle finance tracking. Tell me your budget situation, and I'll help with financial planning."
+    },
+    "legal-compliance-checker": {
+      "name": "Compliance Checker",
+      "description": "Ensure legal compliance",
+      "greeting": "Hi! I handle compliance checks. Tell me your business scope, and I'll help identify compliance risks."
+    },
+    "support-responder": {
+      "name": "Support Responder",
+      "description": "Quickly respond to customer issues",
+      "greeting": "Hi! I handle customer support. Tell me common user questions, and I'll help prepare responses."
+    },
+    "infrastructure-maintainer": {
+      "name": "Infrastructure Maintainer",
+      "description": "Maintain technical infrastructure",
+      "greeting": "Hi! I maintain infrastructure. Tell me your tech architecture, and I'll help ensure stability."
+    },
+    "api-tester": {
+      "name": "API Tester",
+      "description": "Test API endpoints",
+      "greeting": "Hi! I handle API testing. Tell me which endpoints need testing, and I'll help verify them."
+    },
+    "performance-benchmarker": {
+      "name": "Performance Benchmarker",
+      "description": "Evaluate system performance",
+      "greeting": "Hi! I handle performance testing. Tell me your performance targets, and I'll help benchmark."
+    },
+    "test-results-analyzer": {
+      "name": "Test Results Analyzer",
+      "description": "Analyze test results and trends",
+      "greeting": "Hi! I analyze test results. Share your test data, and I'll help identify issues."
+    },
+    "tool-evaluator": {
+      "name": "Tool Evaluator",
+      "description": "Evaluate and recommend tools",
+      "greeting": "Hi! I evaluate tools. Tell me your use case, and I'll recommend suitable options."
+    },
+    "workflow-optimizer": {
+      "name": "Workflow Optimizer",
+      "description": "Optimize work processes",
+      "greeting": "Hi! I optimize workflows. Tell me your current process, and I'll help find improvements."
+    },
+    "joker": {
+      "name": "Team Joker",
+      "description": "Lighten the mood and bring joy",
+      "greeting": "Hey! I'm the team's fun specialist. Feeling tired? Let me tell you a joke to lighten things up!"
+    },
+    "studio-coach": {
+      "name": "Studio Coach",
+      "description": "Guide team growth and development",
+      "greeting": "Hi! I'm the team coach. Tell me your challenges, and I'll help you find growth opportunities."
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "apiKeys": "Service Configuration",
+    "apiKeysDescription": "Configure your AI service keys (stored locally in browser only)",
+    "deepseekKey": "DeepSeek API Key",
+    "deepseekHint": "Get it from https://platform.deepseek.com/api_keys. Best value and strong performance.",
+    "claudeKey": "Claude API Key",
+    "claudeHint": "Get it from https://console.anthropic.com/settings/keys. Exceptional reasoning and coding.",
+    "openaiKey": "OpenAI API Key",
+    "openaiHint": "Get it from https://platform.openai.com/api-keys. The industry standard model.",
+    "geminiKey": "Gemini API Key",
+    "geminiHint": "Get it from https://aistudio.google.com/app/apikey. Fast and cost-effective multimodal model.",
+    "modelSelection": "Model Selection",
+    "modelAuto": "Auto Select",
+    "modelAutoDescription": "System automatically selects the best model for each task",
+    "language": "Language",
+    "keyPlaceholder": "Enter your API Key",
+    "keySaved": "Key saved",
+    "keyRequired": "Please configure at least one API Key"
+  },
+  "handoff": {
+    "title": "Next Step",
+    "toPrototype": "Quick Prototype",
+    "toPrototypeDesc": "Engineering team builds interactive prototype directly",
+    "toPrototypeRecommend": "Recommended: Validate ideas fast",
+    "toDesign": "Design First",
+    "toDesignDesc": "Design team creates visuals before development",
+    "toDesignRecommend": "Best for: Brand projects",
+    "saveLater": "Save for later",
+    "dispatched": "Dispatched to",
+    "received": "Task received"
+  },
+  "status": {
+    "teamWorking": "Team Working",
+    "waiting": "Waiting",
+    "queue": "In Queue"
+  }
+}

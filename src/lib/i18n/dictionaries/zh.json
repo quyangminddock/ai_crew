@@ -1,0 +1,257 @@
+{
+  "common": {
+    "appName": "CREW",
+    "tagline": "你的创业团队，已就位",
+    "subtitle": "8个专业部门，为你从想法到上线全程护航",
+    "description": "不需要懂技术，不需要招人，点击开始即可",
+    "start": "开始组建团队",
+    "meetTeam": "了解团队成员",
+    "settings": "设置",
+    "send": "发送",
+    "cancel": "取消",
+    "confirm": "确认",
+    "save": "保存",
+    "back": "返回",
+    "loading": "加载中...",
+    "working": "工作中",
+    "completed": "已完成",
+    "idle": "空闲",
+    "continueChat": "继续对话",
+    "startChat": "开始对话",
+    "viewDetails": "查看详情"
+  },
+  "departments": {
+    "product": "产品部",
+    "design": "设计部",
+    "engineering": "工程部",
+    "marketing": "市场部",
+    "project-management": "项目部",
+    "studio-operations": "运营部",
+    "testing": "测试部",
+    "bonus": "特别组"
+  },
+  "agents": {
+    "sprint-prioritizer": {
+      "name": "优先级规划师",
+      "description": "帮你在有限时间内最大化价值交付",
+      "greeting": "你好！我是优先级规划师，专门帮你在冲刺周期内排定最重要的事项。告诉我你的项目，我来帮你理清优先级。"
+    },
+    "feedback-synthesizer": {
+      "name": "反馈分析师",
+      "description": "整合用户反馈，提炼核心洞察",
+      "greeting": "你好！我负责分析和整合用户反馈。把你收集到的反馈告诉我，我帮你提炼关键信息。"
+    },
+    "trend-researcher": {
+      "name": "趋势研究员",
+      "description": "追踪市场趋势，发现新机会",
+      "greeting": "你好！我专注于市场趋势研究。告诉我你的产品方向，我帮你分析行业动态和机会点。"
+    },
+    "ui-designer": {
+      "name": "UI设计师",
+      "description": "快速设计美观实用的界面",
+      "greeting": "你好！我是UI设计师，擅长快速出可实现的界面设计。告诉我你的产品需求，我来规划界面方案。"
+    },
+    "ux-researcher": {
+      "name": "UX研究员",
+      "description": "深入理解用户需求和行为",
+      "greeting": "你好！我专注于用户体验研究。告诉我你的目标用户，我帮你分析他们的需求和使用场景。"
+    },
+    "brand-guardian": {
+      "name": "品牌守护者",
+      "description": "确保品牌一致性和调性",
+      "greeting": "你好！我负责维护品牌的一致性。告诉我你的品牌定位，我帮你把控设计方向。"
+    },
+    "visual-storyteller": {
+      "name": "视觉叙事师",
+      "description": "用视觉语言讲述品牌故事",
+      "greeting": "你好！我擅长用视觉来讲故事。告诉我你想传达的信息，我帮你构思视觉表达。"
+    },
+    "whimsy-injector": {
+      "name": "趣味注入师",
+      "description": "为产品增添惊喜和趣味",
+      "greeting": "你好！我专门负责给产品加点有趣的东西。告诉我你的产品，我来想想怎么让它更好玩。"
+    },
+    "frontend-developer": {
+      "name": "前端开发",
+      "description": "构建流畅的用户界面",
+      "greeting": "你好！我负责前端开发。告诉我你的设计需求，我来评估实现方案。"
+    },
+    "backend-architect": {
+      "name": "后端架构师",
+      "description": "设计稳定的系统架构",
+      "greeting": "你好！我负责后端架构设计。告诉我你的业务需求，我来规划技术方案。"
+    },
+    "rapid-prototyper": {
+      "name": "快速原型师",
+      "description": "快速搭建可交互原型",
+      "greeting": "你好！我擅长快速搭建原型。告诉我你的产品概念，我来帮你快速验证想法。"
+    },
+    "ai-engineer": {
+      "name": "AI工程师",
+      "description": "集成AI能力到产品中",
+      "greeting": "你好！我专注于AI能力集成。告诉我你想实现的AI功能，我来帮你规划。"
+    },
+    "devops-automator": {
+      "name": "DevOps工程师",
+      "description": "自动化部署和运维",
+      "greeting": "你好！我负责自动化部署。告诉我你的部署需求，我来规划CI/CD流程。"
+    },
+    "mobile-app-builder": {
+      "name": "移动端开发",
+      "description": "构建原生移动应用",
+      "greeting": "你好！我负责移动端开发。告诉我你的App需求，我来评估开发方案。"
+    },
+    "test-writer-fixer": {
+      "name": "测试修复师",
+      "description": "编写测试并修复问题",
+      "greeting": "你好！我负责测试和问题修复。告诉我需要测试的功能，我来帮你保障质量。"
+    },
+    "content-creator": {
+      "name": "内容创作者",
+      "description": "创作吸引人的营销内容",
+      "greeting": "你好！我负责内容创作。告诉我你的产品特点，我来帮你写吸引人的内容。"
+    },
+    "growth-hacker": {
+      "name": "增长黑客",
+      "description": "设计用户增长策略",
+      "greeting": "你好！我专注于用户增长。告诉我你的产品现状，我来帮你设计增长策略。"
+    },
+    "app-store-optimizer": {
+      "name": "ASO优化师",
+      "description": "优化应用商店表现",
+      "greeting": "你好！我负责ASO优化。告诉我你的App信息，我来帮你优化商店表现。"
+    },
+    "twitter-engager": {
+      "name": "Twitter运营",
+      "description": "管理Twitter社交互动",
+      "greeting": "你好！我负责Twitter运营。告诉我你的品牌定位，我来帮你规划社交策略。"
+    },
+    "instagram-curator": {
+      "name": "Instagram策展人",
+      "description": "策划Instagram内容",
+      "greeting": "你好！我负责Instagram内容策划。告诉我你的视觉风格，我来帮你规划内容。"
+    },
+    "tiktok-strategist": {
+      "name": "TikTok策略师",
+      "description": "规划TikTok短视频策略",
+      "greeting": "你好！我专注于TikTok策略。告诉我你的目标受众，我来帮你规划短视频内容。"
+    },
+    "reddit-community-builder": {
+      "name": "Reddit社区运营",
+      "description": "建立Reddit社区影响力",
+      "greeting": "你好！我负责Reddit社区运营。告诉我你的产品领域，我来帮你建立社区影响力。"
+    },
+    "project-shipper": {
+      "name": "项目交付专家",
+      "description": "确保项目按时交付",
+      "greeting": "你好！我负责项目交付管理。告诉我你的项目情况，我来帮你把控进度。"
+    },
+    "experiment-tracker": {
+      "name": "实验追踪员",
+      "description": "追踪和分析实验结果",
+      "greeting": "你好！我负责实验追踪。告诉我你正在进行的实验，我来帮你分析结果。"
+    },
+    "studio-producer": {
+      "name": "工作室制片人",
+      "description": "协调团队资源和进度",
+      "greeting": "你好！我负责协调团队资源。告诉我你的团队情况，我来帮你优化协作。"
+    },
+    "analytics-reporter": {
+      "name": "数据分析师",
+      "description": "分析数据生成报告",
+      "greeting": "你好！我负责数据分析。告诉我你关心的指标，我来帮你分析数据。"
+    },
+    "finance-tracker": {
+      "name": "财务跟踪员",
+      "description": "追踪财务状况和预算",
+      "greeting": "你好！我负责财务跟踪。告诉我你的预算情况，我来帮你规划财务。"
+    },
+    "legal-compliance-checker": {
+      "name": "合规检查员",
+      "description": "确保法律合规",
+      "greeting": "你好！我负责合规检查。告诉我你的业务范围，我来帮你检查合规风险。"
+    },
+    "support-responder": {
+      "name": "客服响应专员",
+      "description": "快速响应客户问题",
+      "greeting": "你好！我负责客户支持。告诉我常见的用户问题，我来帮你准备回复。"
+    },
+    "infrastructure-maintainer": {
+      "name": "基础设施维护员",
+      "description": "维护技术基础设施",
+      "greeting": "你好！我负责基础设施维护。告诉我你的技术架构，我来帮你保障稳定性。"
+    },
+    "api-tester": {
+      "name": "API测试员",
+      "description": "测试API接口",
+      "greeting": "你好！我负责API测试。告诉我需要测试的接口，我来帮你检验。"
+    },
+    "performance-benchmarker": {
+      "name": "性能基准测试员",
+      "description": "评估系统性能",
+      "greeting": "你好！我负责性能测试。告诉我你的性能指标，我来帮你做基准测试。"
+    },
+    "test-results-analyzer": {
+      "name": "测试结果分析师",
+      "description": "分析测试结果和趋势",
+      "greeting": "你好！我负责分析测试结果。告诉我你的测试数据，我来帮你分析问题。"
+    },
+    "tool-evaluator": {
+      "name": "工具评估员",
+      "description": "评估和推荐工具",
+      "greeting": "你好！我负责工具评估。告诉我你的需求场景，我来帮你推荐合适的工具。"
+    },
+    "workflow-optimizer": {
+      "name": "流程优化师",
+      "description": "优化工作流程",
+      "greeting": "你好！我负责流程优化。告诉我你的当前流程，我来帮你找到改进点。"
+    },
+    "joker": {
+      "name": "气氛调节师",
+      "description": "调节团队氛围，带来欢乐",
+      "greeting": "嘿！我是团队的开心果。工作累了？让我给你讲个笑话放松一下！"
+    },
+    "studio-coach": {
+      "name": "团队教练",
+      "description": "指导团队成长和发展",
+      "greeting": "你好！我是团队教练。告诉我你遇到的挑战，我来帮你找到成长方向。"
+    }
+  },
+  "settings": {
+    "title": "设置",
+    "apiKeys": "服务配置",
+    "apiKeysDescription": "配置你的 AI 服务密钥（仅存储在本地浏览器）",
+    "deepseekKey": "DeepSeek API Key",
+    "deepseekHint": "前往 https://platform.deepseek.com/api_keys 获取，性价比最高，中文能力强",
+    "claudeKey": "Claude API Key",
+    "claudeHint": "前往 https://console.anthropic.com/settings/keys 获取，推理能力和代码生成极佳",
+    "openaiKey": "OpenAI API Key",
+    "openaiHint": "前往 https://platform.openai.com/api-keys 获取，行业基准模型，全球表现最稳定",
+    "geminiKey": "Gemini API Key",
+    "geminiHint": "前往 https://aistudio.google.com/app/apikey 获取，快速且经济的多模态模型",
+    "modelSelection": "模型选择",
+    "modelAuto": "自动选择",
+    "modelAutoDescription": "系统根据任务自动选择最合适的模型",
+    "language": "界面语言",
+    "keyPlaceholder": "输入你的 API Key",
+    "keySaved": "密钥已保存",
+    "keyRequired": "请至少配置一个 API Key"
+  },
+  "handoff": {
+    "title": "下一步",
+    "toPrototype": "快速出原型",
+    "toPrototypeDesc": "工程团队直接搭建可交互原型",
+    "toPrototypeRecommend": "推荐：快速验证想法",
+    "toDesign": "先做UI设计",
+    "toDesignDesc": "设计团队先出视觉稿再开发",
+    "toDesignRecommend": "适合：品牌项目",
+    "saveLater": "暂时保存，稍后决定",
+    "dispatched": "已派发给",
+    "received": "已接收任务"
+  },
+  "status": {
+    "teamWorking": "团队工作中",
+    "waiting": "等待中",
+    "queue": "排队"
+  }
+}
